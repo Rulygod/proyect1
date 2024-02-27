@@ -1,0 +1,26 @@
+body{
+    background:darkslategrey;
+}
+*{
+    font-family: Georgia;
+}
+h1{
+    color:gold;
+    border: 3px solid whitesmoke;
+    border-radius: 50px;
+    border-style: dotted ;
+    border-top: 0px;
+    text-align: center;
+    text-transform: uppercase;
+}
+p{
+    text-align: justify;
+    color: burlywood;
+    border: 7px solid darkcyan;
+    border-style: double;
+    
+}
+img{
+    align-items: center;
+    border-radius: 100px;
+}
